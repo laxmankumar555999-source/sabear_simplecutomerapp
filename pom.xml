@@ -16,6 +16,8 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+             <sonar.sources>src</sonar.sources>
+<sonar.tests>src/com/room/sample/view/Test</sonar.tests>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
